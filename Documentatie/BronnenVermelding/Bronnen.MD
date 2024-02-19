@@ -8,6 +8,7 @@
 
 ### Documentatie
 
+- [Chatgpt](https://chat.openai.com/(research with chatgpt))
 - [QR code](https://www.qrcode-monkey.com/(Qr code generator))
 
 
@@ -15,3 +16,7 @@
 
 ### UISP
 - [UISP designer](https://ispdesign.ui.com/#/(UISP designs))
+- [Website Unifi ISP](https://uisp.com/eu/60ghz-wireless/(Inifi ISP official Website))
+
+- [Inox beugel](https://www.detandt.com/Inox-beugel-met-kantelkop-%C3%9860145%E2%80%93A2SOD%20COL60slch145%E2%80%93m606.html?lang=nl(Dit is een inox beugel om weersomstandigheden te weerstaan))
+
