@@ -1,0 +1,160 @@
+<mxfile host="app.diagrams.net" modified="2024-02-26T09:00:27.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fmJrxfM2mDzJ1AdEQgxk" version="21.3.5" type="device">
+  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+    <mxGraphModel dx="825" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-1" value="Connectie verkrijgen op de lichtmasten waar dit niet voorzien is." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="140" as="sourcePoint" />
+            <mxPoint x="280" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-5" value="5Ghz signaal uitzenden naar recievers om netwerk te verkrijgen op de lichtmasten in de haven. en deze dan besturen van op afstand." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="80" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="140" as="sourcePoint" />
+            <mxPoint x="640" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-7" value="Lichtmasten hebben netwerk en kunnen van op afstand aangestuurd worden" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="80" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-8" value="Product = Upgrade verlichtssysteem wallenius wilhelmsen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="240" width="750" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CrQSuBvSUl4YXEDlKpVm-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="408.75" y="-46.25" width="20" height="532.5" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-2" value="Upgrade verlichtssysteem wallenius wilhelmsen" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="460" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="30" width="460" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-4" value="&lt;b&gt;Input&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-3">
+          <mxGeometry width="154" height="80" as="geometry">
+            <mxRectangle width="154" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-5" value="&lt;b&gt;Functies&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-3">
+          <mxGeometry x="154" width="152" height="80" as="geometry">
+            <mxRectangle width="152" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-6" value="&lt;b&gt;Output&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-3">
+          <mxGeometry x="306" width="154" height="80" as="geometry">
+            <mxRectangle width="154" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="110" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-8" value="Politielicht" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-7">
+          <mxGeometry width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-7">
+          <mxGeometry x="154" width="152" height="60" as="geometry">
+            <mxRectangle width="152" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-7">
+          <mxGeometry x="306" width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="170" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-12" value="Licht 100 Procent" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-11">
+          <mxGeometry width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-11">
+          <mxGeometry x="154" width="152" height="60" as="geometry">
+            <mxRectangle width="152" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-11">
+          <mxGeometry x="306" width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="230" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-22" value="licht uit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-21">
+          <mxGeometry width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-23" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-21">
+          <mxGeometry x="154" width="152" height="60" as="geometry">
+            <mxRectangle width="152" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-24" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-21">
+          <mxGeometry x="306" width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-25" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="290" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-26" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-25">
+          <mxGeometry width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-27" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-25">
+          <mxGeometry x="154" width="152" height="60" as="geometry">
+            <mxRectangle width="152" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-25">
+          <mxGeometry x="306" width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-29" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-2">
+          <mxGeometry y="350" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-30" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-29">
+          <mxGeometry width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-29">
+          <mxGeometry x="154" width="152" height="60" as="geometry">
+            <mxRectangle width="152" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-32" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="L2XS22Iwqnyf6qpfAOOI-29">
+          <mxGeometry x="306" width="154" height="60" as="geometry">
+            <mxRectangle width="154" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-33" value="Input requirements&lt;br&gt;* Lichten van op afstand kunnen aansturen&lt;br&gt;* Politielicht&lt;br&gt;* lichten 100 procent&lt;br&gt;* lichten uit&lt;br&gt;* Verlichting op sensor gecontroleerd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="800" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-34" value="Output Requirments&lt;br&gt;* Politielicht&lt;br&gt;* lichten 100 %&lt;br&gt;* lichten uit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="910" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L2XS22Iwqnyf6qpfAOOI-35" value="Functie Requirments&lt;br&gt;* Transmitter voor 5Ghz Signaal&lt;br&gt;* Recievers voor 5Ghz Signaal&lt;br&gt;* stabiel signaal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="990" width="470" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
