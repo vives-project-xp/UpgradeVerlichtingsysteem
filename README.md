@@ -8,7 +8,6 @@
   - [Team](#team)
   - [Research](#research)
   - [Hardware](#hardware)
-  - [Gebruik](#gebruik)
   - [Planning](#planning)
   - [BOM](#bom)
   - [Research document](#research-document)
@@ -30,12 +29,47 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 - UNIFI ISP: Unifi ISP biedt draadloze communicatieoplossingen, waaronder UISP (UniFi SmartPanel) 60 GHz draadloos en 5 GHz LTU (Long-Range) systemen, ontwikkeld door Ubiquiti Networks. De 60 GHz-band biedt hoge doorvoer en weinig interferentie, geschikt voor snelle gegevensoverdracht, terwijl de 5 GHz LTU-systemen een bereik van meer dan 30 km bieden. Demo-opstellingen tonen de benodigde apparatuur en geschatte kosten voor tests tussen locaties, zoals tussen Vives Xaverianenstraat en Vives (KU Leuven) Station, waarbij signaalsterkte, stabiliteit en weersbestendigheid worden geëvalueerd.
 
 ## Hardware
+* LoRa
+
+1. DLOS8N Outdoor LoRaWAN Gateway
+![alt text](./Documentatie/Foto's/gateway.jpg)
+2. LoRa Fiberglass Outdoor Antenna with SMA cable
+![alt text](./Documentatie/Foto's/Receiver.jpg)
+3. Arduino MKR WAN 1310 - LoRa
+![alt text](./Documentatie/Foto's/arduino%20bord.jpg)
+4. SMA verloopkabel
+![alt text](./Documentatie/Foto's/kopeling.png)
+
+* UNIFI
+
+1. LTU Rocket
+![alt text](./Documentatie/Foto's/LTU%20rocket.png)
+2. airMAX 5 GHz, 19/20 dBi Sector
+![alt text](./Documentatie/Foto's/antenne.png)
+3. LTU Long-Range
+![alt text](./Documentatie/Foto's/LTU%20long%20range.png)
+
+## BOM
+
+* LoRa
+
+| Beschrijving | Hoeveelheid | Prijs |
+|--------------|-------------|-------|
+| Gateway: DLOS8N outdoor LoRaWAN Gateway | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
+| Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
+| Controllers receiver: recBordje van lora arduino. | 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
+| Convert cable. | 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
+| **Total Price** | - | **€749.87** |
 
 
+* UNIFI ISP
 
-## Gebruik
-
-
+| Beschrijving | Hoeveelheid | Prijs |
+|--------------|-------------|-------|
+| Transmitter LTU Rocket | 1 | [€369](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-basestation/products/ltu-rocket) |
+| LTU long Range | 6 | [€714](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-client-long-range/products/ltu-lr) |
+| airMAX 5 GHz, 19/20 dBi Sector | 1 | [€128](https://eu.store.ui.com/eu/en/collections/uisp-wireless-antennas-sector/products/am-5g2?variant=am-5g19-120) |
+| **Total Price** | - | **€1211** |
 
 ## Planning
 
@@ -63,28 +97,6 @@ Sprint 4: (Week 11 tot 12)
 
 Presentatie: (Week 13)
 - Het presenteren van het gemaakte project aan de volledige opleiding met een vragen moment op het einde.
-
-## BOM
-
-* LoRa
-
-| Beschrijving | Hoeveelheid | Prijs |
-|--------------|-------------|-------|
-| Gateway: DLOS8N outdoor LoRaWAN Gateway | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
-| Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
-| Controllers receiver: recBordje van lora arduino. | 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
-| Convert cable. | 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
-| **Total Price** | - | **€749.87** |
-
-
-* UNIFI ISP
-
-| Beschrijving | Hoeveelheid | Prijs |
-|--------------|-------------|-------|
-| Transmitter LTU Rocket | 1 | [€369](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-basestation/products/ltu-rocket) |
-| LTU long Range | 6 | [€714](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-client-long-range/products/ltu-lr) |
-| airMAX 5 GHz, 19/20 dBi Sector | 1 | [€128](https://eu.store.ui.com/eu/en/collections/uisp-wireless-antennas-sector/products/am-5g2?variant=am-5g19-120) |
-| **Total Price** | - | **€1211** |
 
 ## Research document
 
