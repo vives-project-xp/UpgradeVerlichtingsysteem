@@ -61,19 +61,18 @@ Presentatie: (Week 13)
 ## BOM
 
 * UNIFI ISP
+
 | Beschrijving | Hoeveelheid | Prijs |
 |---|---|---|
 | Gateway: DLOS8N outdoor LoRaWAN Gateway | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
-
 |Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.amazon.nl/BTF-LIGHTING-Vergelijkbare-Individueel-Adresseerbare-Niet-Waterdicht/dp/B01N2PC9KK?th=1&psc=1) |
-
 | Controllers receiver: recBordje van lora arduino.| 6 | [€239.40](https://www.amazon.nl/Transformatoren-AC100-240V-Omvormer-Stekkeradapter-Verlichting/dp/B07PBNCFDG?th=1) |
 
-| Adapter omvormer | 1 | [€9.02](https://www.amazon.nl/Poppstar-Adapter-5x2-Connectors-CCTV-camera/dp/B084RHH8LC/ref=sr_1_34?__mk_nl_NL=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=V9PER2XBYZ4R&keywords=adapter%2Bto%2Bdc%2Bconnector%2B5.5mm%2Bx%2B2.5mm&qid=1696238739&sprefix=adapter%2Bto%2Bdc%2Bconnector%2B5.5mm%2Bx%2B2.5mm%2Caps%2C59&sr=8-34&th=1) |
 
 
 
 * LoRa
+
 | Beschrijving | Hoeveelheid | Prijs |
 |---|---|---|
 | Geluidssensor | 1 | [€0.99](https://www.otronic.nl/nl/geluidssensor-module-voor-arduino.html?source=googlebase&gclid=CjwKCAjw6p-oBhAYEiwAgg2PgvJGbAdSLS3JsDfqUBgOOat_ftWyWaGPusD0NC0eCy59e2G_c6wvgRoCTzEQAvD_BwE) |
