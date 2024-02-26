@@ -36,4 +36,6 @@
 - [Website Unifi ISP](https://uisp.com/eu/60ghz-wireless/(Inifi ISP official Website))
 - [Inox beugel](https://www.detandt.com/Inox-beugel-met-kantelkop-%C3%9860145%E2%80%93A2SOD%20COL60slch145%E2%80%93m606.html?lang=nl(Dit is een inox beugel om weersomstandigheden te weerstaan))
 - [Regengeving 5GHZ](https://www.wirelessinfo.be/wifi-wetgeving/(Regelgeving over 5ghz band in Belgie))
-- [Uv]https://www.reddit.com/r/Ubiquiti/comments/wid46k/indoor_vs_outdoor_same_age_approx_4_years/(Wat doet UV met behuizing)
+- [Uv](https://www.reddit.com/r/Ubiquiti/comments/wid46k/indoor_vs_outdoor_same_age_approx_4_years/(Wat doet UV met behuizing))
+
+### Overige
