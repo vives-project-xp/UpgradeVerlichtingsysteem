@@ -2,6 +2,7 @@
 
 
 ## Kort Voorbeeltje
+
 - [Kort wat het is](https://www.url.com/(kort wat het doet))
 
 ## Bronnen
@@ -10,6 +11,7 @@
 
 - [Chatgpt](https://chat.openai.com/(research with chatgpt))
 - [QR code](https://www.qrcode-monkey.com/(Qr code generator))
+- [Draw.io](https://app.diagrams.net//(Het programma waar we de diagrammen in hebben gemaakt))
 
 ### Zigbee
 
@@ -17,6 +19,7 @@
 
 
 ### LORa
+
 - [info loraWAN beam](https://ttnmapper.org/radar/(Hier kan je de beams zien van de gateways))
 - [info TTN](https://www.thethingsindustries.com/stack/(Hoe voeg je een gateway toe en heb je een mooie layout om de data uit te lezen TTN))
 - [info all things talk](https://www.allthingstalk.com/welcome/thethingsnetwork(Hoe voeg je een gateway toe in all thinks talk))
