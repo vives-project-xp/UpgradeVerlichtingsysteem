@@ -65,10 +65,10 @@ Presentatie: (Week 13)
 | Beschrijving | Hoeveelheid | Prijs |
 |---|---|---|
 | Gateway: DLOS8N outdoor LoRaWAN Gateway | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
-|Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.amazon.nl/BTF-LIGHTING-Vergelijkbare-Individueel-Adresseerbare-Niet-Waterdicht/dp/B01N2PC9KK?th=1&psc=1) |
-| Controllers receiver: recBordje van lora arduino.| 6 | [€239.40](https://www.amazon.nl/Transformatoren-AC100-240V-Omvormer-Stekkeradapter-Verlichting/dp/B07PBNCFDG?th=1) |
-
-
+| Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
+| Controllers receiver: recBordje van lora arduino.| 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
+| Convert cable.| 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
+| **Total Price** | - | **€749.87** |
 
 
 * LoRa
