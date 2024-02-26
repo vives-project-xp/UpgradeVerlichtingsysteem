@@ -22,7 +22,11 @@ De groep bestaat uit:
 Elias Vanthorre, Xander Claessens, Robbe Verhelst
 
 ## Research
-!! hier komt de resereach kort!!
+- Zigbee : heeft een range beperking waardoor we niet zullen kiezen voor zigbee 
+- LoRa : LoRa (Long Range) is een draadloze communicatietechnologie die speciaal is ontworpen voor het Internet of Things (IoT). Het biedt een langeafstandsverbinding met een laag energieverbruik, waardoor het ideaal is voor toepassingen waarbij apparaten op grote afstand van elkaar moeten communiceren. In het context van het gegeven README-bestand wordt LoRa genoemd als een mogelijke technologie voor het aansturen van verlichtingspalen zonder bekabeling. LoRa kan worden gebruikt om draadloze communicatie tussen de verlichtingspalen en de besturingssoftware mogelijk te maken.
+Een van de belangrijkste voordelen van LoRa is het bereik. Het kan signalen verzenden en ontvangen over grote afstanden, zelfs in omgevingen met obstakels zoals gebouwen of landschapskenmerken. Dit maakt het ideaal voor toepassingen zoals smart cities, waarbij apparaten verspreid zijn over een groot gebied.
+Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen langdurig kunnen werken zonder frequent opladen. Dit is vooral belangrijk voor IoT-toepassingen, waarbij apparaten vaak op afgelegen locaties worden geplaatst en het niet praktisch is om ze regelmatig van stroom te voorzien.
+- UNIFI ISP: Unifi ISP biedt draadloze communicatieoplossingen, waaronder UISP (UniFi SmartPanel) 60 GHz draadloos en 5 GHz LTU (Long-Range) systemen, ontwikkeld door Ubiquiti Networks. De 60 GHz-band biedt hoge doorvoer en weinig interferentie, geschikt voor snelle gegevensoverdracht, terwijl de 5 GHz LTU-systemen een bereik van meer dan 30 km bieden. Demo-opstellingen tonen de benodigde apparatuur en geschatte kosten voor tests tussen locaties, zoals tussen Vives Xaverianenstraat en Vives (KU Leuven) Station, waarbij signaalsterkte, stabiliteit en weersbestendigheid worden geëvalueerd.
 
 ## Hardware
 
@@ -63,18 +67,18 @@ Presentatie: (Week 13)
 * LoRa
 
 | Beschrijving | Hoeveelheid | Prijs |
-|---|---|---|
+|--------------|-------------|-------|
 | Gateway: DLOS8N outdoor LoRaWAN Gateway | 1 | [€249.95](https://www.antratek.be/dlos8n-outdoor-lorawan-gateway) |
 | Receiver: LoRa fiberglass outdoor antenna with SMA cable | 6 | [€234.00](https://www.antratek.be/lora-fiberglass-outdoor-antenna-with-cable) |
-| Controllers receiver: recBordje van lora arduino.| 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
-| Convert cable.| 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
+| Controllers receiver: recBordje van lora arduino. | 6 | [€239.40](https://www.antratek.be/arduino-mkr-wan-1310-lora) |
+| Convert cable. | 6 | [€26.52](https://www.allekabels.be/delock/6335/3387497/sma-verloopkabel.html?mc=nl-be&gad_source=1&gclid=CjwKCAiAlcyuBhBnEiwAOGZ2SwqTmJM-ptgAfea0Q5WTqEbYEkizDlHECH-4VB8BJi3uLMKrc6mXbBoC-k8QAvD_BwE) |
 | **Total Price** | - | **€749.87** |
 
 
 * UNIFI ISP
 
 | Beschrijving | Hoeveelheid | Prijs |
-|---|---|---|
+|--------------|-------------|-------|
 | Transmitter LTU Rocket | 1 | [€369](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-basestation/products/ltu-rocket) |
 | LTU long Range | 6 | [€714](https://eu.store.ui.com/eu/en/collections/uisp-wireless-ltu-5-ghz-client-long-range/products/ltu-lr) |
 | airMAX 5 GHz, 19/20 dBi Sector | 1 | [€128](https://eu.store.ui.com/eu/en/collections/uisp-wireless-antennas-sector/products/am-5g2?variant=am-5g19-120) |
