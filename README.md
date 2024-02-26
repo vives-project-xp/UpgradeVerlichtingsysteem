@@ -44,8 +44,10 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 
 1. LTU Rocket
 ![alt text](./Documentatie/Foto's/LTU%20rocket.jpg)
+
 2. airMAX 5 GHz, 19/20 dBi Sector (AM-5G19-120)
 ![alt text](./Documentatie/Foto's/)
+
 3. LTU Long-Range
 ![alt text](./Documentatie/Foto's/antenne.jpg)
 
