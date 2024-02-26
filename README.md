@@ -11,8 +11,9 @@
   - [Gebruik](#gebruik)
   - [Planning](#planning)
   - [BOM](#bom)
-  - [Licentie](#licentie)
   - [Research document](#research-document)
+  - [Github](#github)
+  - [Powerpoint](#powerpoint)
 
 ## Doel
 Het doel van het project is het aansturen van verschillende verlichtingspalen die momenteel niet voorzien zijn van bekabeling om aangestuurd te worden. De huidige oplossing is het rondrijden om de verlichting individueel aan te leggen. Op onderstaande foto is te zien over welke verlichtingspalen dit gaan met een gemiddelde afstand van 100m. Hiervoor zal een draadloze oplossing gezocht worden om deze verlichting via de huidige software aan te sturen.
@@ -25,6 +26,7 @@ Elias Vanthorre, Xander Claessens, Robbe Verhelst
 !! hier komt de resereach kort!!
 
 ## Hardware
+
 
 
 ## Gebruik
@@ -80,11 +82,15 @@ Presentatie: (Week 13)
 | airMAX 5 GHz, 19/20 dBi Sector | 1 | [€128](https://eu.store.ui.com/eu/en/collections/uisp-wireless-antennas-sector/products/am-5g2?variant=am-5g19-120) |
 | **Total Price** | - | **€1211** |
 
-
-## Licentie
-
-
-
 ## Research document
 
 https://docs.google.com/document/d/1G3bZLvqTwI6046OEOXTlWncNH4yMNufj9Are0H7HTGQ/edit?usp=sharing 
+
+## Github
+
+https://github.com/vives-project-xp/UpgradeVerlichtingsysteem
+
+
+## Powerpoint
+
+https://vivesonline-my.sharepoint.com/:p:/g/personal/r0937303_student_vives_be/EQ--HkPFPZRFvBaCijHgXsQB244iJa71Ci4ZkDngoBXCpQ?e=j7OBnX 
