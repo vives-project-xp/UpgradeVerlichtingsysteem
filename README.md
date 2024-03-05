@@ -112,4 +112,4 @@ https://github.com/vives-project-xp/UpgradeVerlichtingsysteem
 
 ## Powerpoint
 
-https://vivesonline-my.sharepoint.com/:p:/g/personal/r0937303_student_vives_be/EQ--HkPFPZRFvBaCijHgXsQB244iJa71Ci4ZkDngoBXCpQ?e=j7OBnX 
+https://vivesonline-my.sharepoint.com/:f:/g/personal/r0937303_student_vives_be/Etcbu2drZYJPig6IPUDJIq0BVEMRaauK4c4SZp-p5Y8hbA?e=eQiQK8 
