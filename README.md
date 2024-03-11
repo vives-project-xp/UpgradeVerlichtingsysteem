@@ -28,7 +28,7 @@ Een van de belangrijkste voordelen van LoRa is het bereik. Het kan signalen verz
 Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen langdurig kunnen werken zonder frequent opladen. Dit is vooral belangrijk voor IoT-toepassingen, waarbij apparaten vaak op afgelegen locaties worden geplaatst en het niet praktisch is om ze regelmatig van stroom te voorzien.
 - UNIFI ISP: Unifi ISP biedt draadloze communicatieoplossingen, waaronder UISP (UniFi SmartPanel) 60 GHz draadloos en 5 GHz LTU (Long-Range) systemen, ontwikkeld door Ubiquiti Networks. De 60 GHz-band biedt hoge doorvoer en weinig interferentie, geschikt voor snelle gegevensoverdracht, terwijl de 5 GHz LTU-systemen een bereik van meer dan 30 km bieden. Demo-opstellingen tonen de benodigde apparatuur en geschatte kosten voor tests tussen locaties, zoals tussen Vives Xaverianenstraat en Vives (KU Leuven) Station, waarbij signaalsterkte, stabiliteit en weersbestendigheid worden geëvalueerd.
 
-## Hardware
+
 ## Hardware
 
 * LoRa
