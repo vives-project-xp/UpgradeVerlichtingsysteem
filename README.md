@@ -29,28 +29,32 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 - UNIFI ISP: Unifi ISP biedt draadloze communicatieoplossingen, waaronder UISP (UniFi SmartPanel) 60 GHz draadloos en 5 GHz LTU (Long-Range) systemen, ontwikkeld door Ubiquiti Networks. De 60 GHz-band biedt hoge doorvoer en weinig interferentie, geschikt voor snelle gegevensoverdracht, terwijl de 5 GHz LTU-systemen een bereik van meer dan 30 km bieden. Demo-opstellingen tonen de benodigde apparatuur en geschatte kosten voor tests tussen locaties, zoals tussen Vives Xaverianenstraat en Vives (KU Leuven) Station, waarbij signaalsterkte, stabiliteit en weersbestendigheid worden geëvalueerd.
 
 ## Hardware
+## Hardware
+
 * LoRa
 
 1. DLOS8N Outdoor LoRaWAN Gateway
-![alt text](./Documentatie/Foto's/gateway.jpg)
+<img src="./Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
+
 2. LoRa Fiberglass Outdoor Antenna with SMA cable
-![alt text](./Documentatie/Foto's/Receiver.jpg)
+<img src="./Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="300">
+
 3. Arduino MKR WAN 1310 - LoRa
-![alt text](./Documentatie/Foto's/arduino%20bord.jpg)
+<img src="./Documentatie/Foto's/arduino%20bord.jpg" alt="Arduino board" width="300">
+
 4. SMA verloopkabel
-![alt text](./Documentatie/Foto's/kopeling.png)
+<img src="./Documentatie/Foto's/kopeling.png" alt="SMA verloopkabel" width="300">
 
 * UNIFI
 
 1. LTU Rocket
-![alt text](./Documentatie/Foto's/LTU%20rocket.png)
+<img src="./Documentatie/Foto's/LTU%20rocket.png" alt="LTU Rocket" width="300">
 
 2. airMAX 5 GHz, 19/20 dBi Sector (AM-5G19-120)
-
-![alt text](./Documentatie/Foto's/antenne.png)
+<img src="./Documentatie/Foto's/antenne.png" alt="airMAX Antenna" width="300">
 
 3. LTU Long-Range
-![alt text](./Documentatie/Foto's/LTU%20long%20range.png)
+<img src="./Documentatie/Foto's/LTU%20long%20range.png" alt="LTU Long-Range" width="300">
 
 ## BOM
 
