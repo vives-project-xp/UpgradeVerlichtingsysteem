@@ -78,6 +78,39 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 | airMAX 5 GHz, 19/20 dBi Sector | 1 | [€128](https://eu.store.ui.com/eu/en/collections/uisp-wireless-antennas-sector/products/am-5g2?variant=am-5g19-120) |
 | **Total Price** | - | **€1211** |
 
+.
+
+
+* Uiteindelijke bestel lijst van de 2 sites
+
+**Opstelling 1: Canadakaai**
+
+<img width="754" alt="final design canada" src="https://github.com/vives-project-xp/UpgradeVerlichtingsysteem/assets/83211667/7fc9ed50-afc8-47bb-9bf0-ad5ad06a72fb">
+
+Onderdelenlijst:
+- LTU Rocket: [Link](https://www.eetgroup.com/nl-be/ltu-rocket-ubiquiti-5-ghz-ptmp-ltu-basestation-wid-w125511459)
+- Antenne: [Link](https://www.eetgroup.com/nl-be/am-5g19-120-ubiquiti-am-5g19-120-wid-w124445131)
+- LTU LR: [Link](https://www.eetgroup.com/nl-be/ltu-lr-ubiquiti-5ghz-long-range-ltu-client-radio-wid-w125700333)
+
+**Opstelling 2: Orcelle terminal**
+
+<img width="500" alt="final design orcelle" src="https://github.com/vives-project-xp/UpgradeVerlichtingsysteem/assets/83211667/18af21f3-3a7c-4c72-8bba-8f8eb43edc71">
+
+
+Onderdelenlijst:
+- LTU Rocket: [Link](https://www.eetgroup.com/en-eu/ltu-rocket-ubiquiti-5-ghz-ptmp-ltu-basestation-wid-w125511459)
+- Antenne: [Link](https://www.eetgroup.com/nl-be/uisp-horn-ubiquiti-high-isolation-point-to-multipoint-ptmp-horn-antenna-that-covers-a-wide-operating-frequency-range-515-6875-ghz-wid-w127034915)
+- LTU XR: [Link](https://www.eetgroup.com/nl-be/ltu-xr-eu-ubiquiti-uisp-ltu-xr-network-antenna-29-dbi-wid-w127378412)
+
+**Totale onderdelenlijst voor beide sites:**
+| Aantal | Link | Product |
+|--------|------|---------|
+| 2      | [Link](https://www.eetgroup.com/en-eu/ltu-rocket-ubiquiti-5-ghz-ptmp-ltu-basestation-wid-w125511459) | LTU Rocket |
+| 1      | [Link](https://www.eetgroup.com/nl-be/uisp-horn-ubiquiti-high-isolation-point-to-multipoint-ptmp-horn-antenna-that-covers-a-wide-operating-frequency-range-515-6875-ghz-wid-w127034915) | Antenne (Orcelle) |
+| 1      | [Link](https://www.eetgroup.com/nl-be/am-5g19-120-ubiquiti-am-5g19-120-wid-w124445131) | Antenne (Canadakaai) |
+| 1      | [Link](https://www.eetgroup.com/nl-be/ltu-xr-eu-ubiquiti-uisp-ltu-xr-network-antenna-29-dbi-wid-w127378412) | LTU XR |
+| 6      | [Link](https://www.eetgroup.com/nl-be/ltu-lr-ubiquiti-5ghz-long-range-ltu-client-radio-wid-w125700333) | LTU LR |
+
 ## Planning
 
 Sprint 1: (Week 1 tot 3)
