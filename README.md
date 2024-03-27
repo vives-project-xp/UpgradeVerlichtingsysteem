@@ -34,7 +34,7 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 * LoRa
 
 1. DLOS8N Outdoor LoRaWAN Gateway
-<img src="./Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
+<img src=".Wallenius/Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
 
 2. LoRa Fiberglass Outdoor Antenna with SMA cable
 <img src="./Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="300">
