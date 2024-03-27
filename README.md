@@ -34,27 +34,27 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 * LoRa
 
 1. DLOS8N Outdoor LoRaWAN Gateway
-<img src=".Wallenius/Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
+<img src="./Wallenius/Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
 
 2. LoRa Fiberglass Outdoor Antenna with SMA cable
-<img src="./Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="300">
+<img src="./Wallenius/Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="300">
 
 3. Arduino MKR WAN 1310 - LoRa
-<img src="./Documentatie/Foto's/arduino%20bord.jpg" alt="Arduino board" width="300">
+<img src="./Wallenius/Documentatie/Foto's/arduino%20bord.jpg" alt="Arduino board" width="300">
 
 4. SMA verloopkabel
-<img src="./Documentatie/Foto's/kopeling.png" alt="SMA verloopkabel" width="300">
+<img src="./Wallenius/Documentatie/Foto's/kopeling.png" alt="SMA verloopkabel" width="300">
 
 * UNIFI
 
 1. LTU Rocket
-<img src="./Documentatie/Foto's/LTU%20rocket.png" alt="LTU Rocket" width="300">
+<img src="./Wallenius/Documentatie/Foto's/LTU%20rocket.png" alt="LTU Rocket" width="300">
 
 2. airMAX 5 GHz, 19/20 dBi Sector (AM-5G19-120)
-<img src="./Documentatie/Foto's/antenne.png" alt="airMAX Antenna" width="300">
+<img src="./Wallenius/Documentatie/Foto's/antenne.png" alt="airMAX Antenna" width="300">
 
 3. LTU Long-Range
-<img src="./Documentatie/Foto's/LTU%20long%20range.png" alt="LTU Long-Range" width="300">
+<img src="./Wallenius/Documentatie/Foto's/LTU%20long%20range.png" alt="LTU Long-Range" width="300">
 
 ## BOM
 
