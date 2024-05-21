@@ -12,6 +12,7 @@
   - [BOM](#bom)
   - [Research document](#research-document)
   - [Github](#github)
+  - [Poster](#poster)
   - [Powerpoint](#powerpoint)
 
 ## Doel
@@ -34,27 +35,27 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 * LoRa
 
 1. DLOS8N Outdoor LoRaWAN Gateway
-<img src="./Wallenius/Documentatie/Foto's/gateway.jpg" alt="gateway" width="300">
+<img src="./Wallenius/Documentatie/Foto's/gateway.jpg" alt="gateway" width="200">
 
 2. LoRa Fiberglass Outdoor Antenna with SMA cable
-<img src="./Wallenius/Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="300">
+<img src="./Wallenius/Documentatie/Foto's/Receiver.jpg" alt="Receiver" width="200">
 
 3. Arduino MKR WAN 1310 - LoRa
-<img src="./Wallenius/Documentatie/Foto's/arduino%20bord.jpg" alt="Arduino board" width="300">
+<img src="./Wallenius/Documentatie/Foto's/arduino%20bord.jpg" alt="Arduino board" width="200">
 
 4. SMA verloopkabel
-<img src="./Wallenius/Documentatie/Foto's/kopeling.png" alt="SMA verloopkabel" width="300">
+<img src="./Wallenius/Documentatie/Foto's/kopeling.png" alt="SMA verloopkabel" width="200">
 
 * UNIFI
 
 1. LTU Rocket
-<img src="./Wallenius/Documentatie/Foto's/LTU%20rocket.png" alt="LTU Rocket" width="300">
+<img src="./Wallenius/Documentatie/Foto's/LTU%20rocket.png" alt="LTU Rocket" width="200">
 
 2. airMAX 5 GHz, 19/20 dBi Sector (AM-5G19-120)
-<img src="./Wallenius/Documentatie/Foto's/antenne.png" alt="airMAX Antenna" width="300">
+<img src="./Wallenius/Documentatie/Foto's/antenne.png" alt="airMAX Antenna" width="200">
 
 3. LTU Long-Range
-<img src="./Wallenius/Documentatie/Foto's/LTU%20long%20range.png" alt="LTU Long-Range" width="300">
+<img src="./Wallenius/Documentatie/Foto's/LTU%20long%20range.png" alt="LTU Long-Range" width="200">
 
 ## BOM
 
@@ -85,7 +86,7 @@ Daarnaast heeft LoRa een laag energieverbruik, waardoor apparaten op batterijen 
 
 **Opstelling 1: Canadakaai**
 
-<img width="754" alt="final design canada" src="https://github.com/vives-project-xp/UpgradeVerlichtingsysteem/assets/83211667/7fc9ed50-afc8-47bb-9bf0-ad5ad06a72fb">
+<img width="500" alt="final design canada" src="https://github.com/vives-project-xp/UpgradeVerlichtingsysteem/assets/83211667/7fc9ed50-afc8-47bb-9bf0-ad5ad06a72fb">
 
 Onderdelenlijst:
 - LTU Rocket: [Link](https://www.eetgroup.com/nl-be/ltu-rocket-ubiquiti-5-ghz-ptmp-ltu-basestation-wid-w125511459)
@@ -146,7 +147,11 @@ https://docs.google.com/document/d/1G3bZLvqTwI6046OEOXTlWncNH4yMNufj9Are0H7HTGQ/
 
 https://github.com/vives-project-xp/UpgradeVerlichtingsysteem
 
+## Poster
+
+https://vivesonline-my.sharepoint.com/:f:/g/personal/r0937303_student_vives_be/Eg5uRI1MZJxEiMkFM27sqxgBBVn1W-9NhZ2oeEx6PoBIfg?e=jeYcrj
 
 ## Powerpoint
 
-https://vivesonline-my.sharepoint.com/:f:/g/personal/r0937303_student_vives_be/Etcbu2drZYJPig6IPUDJIq0BVEMRaauK4c4SZp-p5Y8hbA?e=eQiQK8 
+[https://vivesonline-my.sharepoint.com/:f:/g/personal/r0937303_student_vives_be/Etcbu2drZYJPig6IPUDJIq0BVEMRaauK4c4SZp-p5Y8hbA?e=eQiQK8 
+](https://vivesonline-my.sharepoint.com/:f:/g/personal/r0937303_student_vives_be/EuXRAlitQVVOi_Qp969DyyUBLKBn-MHUp31Yw-YjQdcdzA?e=Mgea3x)
